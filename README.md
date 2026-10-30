@@ -17,5 +17,4 @@ Website for the Council for Advanced Leadership Training, a leadership and educa
 
 ## To do before launch
 
-- Replace `info@example.com` in `index.html` with the real contact email.
 - Add the custom domain (a `CNAME` file is created automatically when you set it in Pages settings).
