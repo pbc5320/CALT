@@ -1,11 +1,12 @@
-# Center for Advanced Leadership Training (CALT)
+# Council for Advanced Leadership Training (CALT)
 
-Website for the Center for Advanced Leadership Training, a leadership and education consultancy serving professionals in education, business, and the non-profit sector.
+Website for the Council for Advanced Leadership Training, a leadership and education consultancy serving professionals in education, business, and the non-profit sector.
 
 ## Files
 
 - `index.html` - the single-page site (About, Approach, Who We Serve, Contact)
 - `styles.css` - all styling
+- `logo.png` - logo, also used as the browser tab icon
 
 ## Publishing with GitHub Pages
 
@@ -17,5 +18,4 @@ Website for the Center for Advanced Leadership Training, a leadership and educat
 ## To do before launch
 
 - Replace `info@example.com` in `index.html` with the real contact email.
-- Add the logo and brand colors once finalized.
 - Add the custom domain (a `CNAME` file is created automatically when you set it in Pages settings).
